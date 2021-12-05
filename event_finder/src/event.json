@@ -1,0 +1,32 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "Event_Type": "Concert",
+      "Event_Name": "Celebrity",
+      "Date": "12 Dec",
+      "Time": "6:00 pm"
+    },
+    {
+      "id": 2,
+      "Event_Type": "Birthday Party",
+      "Event_Name": "Friend",
+      "Date": "18 Dec",
+      "Time": "7:00 pm"
+    },
+    {
+      "id": 3,
+      "Event_Type": "New Year",
+      "Event_Name": "Cisco New Year ",
+      "Date": "1 Jan",
+      "Time": "12:30 pm"
+    },
+    {
+      "id": 4,
+      "Event_Type": "Christmas",
+      "Event_Name": "Christmas Celebration ",
+      "Date": "25 Dec",
+      "Time": "12:00 pm"
+    }
+  ]
+}
